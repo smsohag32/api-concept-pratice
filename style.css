@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.user-container{
+    margin-top: 25px;
+    display: flex;
+    gap: 15px;
+    background-color: grey;
+    color: black;
+}
+
+.post {
+    background-color: aquamarine;
+    padding: 50px 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+}
+.comment{
+    background-color: rgb(30, 30, 28);
+    color: rgb(247, 243, 243);
+    border-radius: 35px;
+    margin: 25px 250px;
+    padding: 15px 50px;
+}
